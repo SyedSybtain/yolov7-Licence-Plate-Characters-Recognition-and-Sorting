@@ -18,16 +18,28 @@ Although YOLOv7 is responsible for accurrate detection which it does but it sort
 
 # Results
 Input Image
+
+
 ![3](https://github.com/SyedSybtain/Licence-Plate-Characters-Recognition-and-Sorting/assets/115772979/1cc1cdfb-d0b5-41f5-9534-dada7dad7412)
+
 Detections
+
 ![3](https://github.com/SyedSybtain/Licence-Plate-Characters-Recognition-and-Sorting/assets/115772979/7dff4ada-80b0-4edd-8a26-b2462155c0ac)
+
+
 Final Sorted Characters Results in Terminal
+
 ![image](https://github.com/SyedSybtain/Licence-Plate-Characters-Recognition-and-Sorting/assets/115772979/0e455156-93f0-47db-8d82-43a94179b6d0)
 
 # How To Run Inference :
 You can run inference with your own image by following Steps
+
 Make sure you have fulfilled all the requirements
+
 1 . Import your images to testimages.
+
 2 . Goto lp_characters.py python file and change the image name accordingly.
+
 3 . If you want to test it with your own trained model name your model by char-tiny.pt and insert it in main directory.
+
 4 . Run directly the lp_characters.py or by cmd.
