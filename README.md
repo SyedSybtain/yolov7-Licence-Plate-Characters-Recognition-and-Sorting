@@ -1,16 +1,20 @@
 # Licence-Plate-Characters-Recognition-and-Sorting using YOLO-V7
 
 # Introduction : 
+
 In this project i will implement the Characters Detection and Recognition using state of Art Algorithm Using YOLOv7. This is a part of my project for detection of Vehicle and Licence Plate Recognition for Loggong Maintanance to show how I did the licence Plate Characters Sorting.
 
 # Problem Statement :
 Although YOLOv7 is responsible for accurrate detection which it does but it sort the detected characters by measure of confidence so we are chalenged to sort them accurately by reference of their position to maintain accurate information of Vehicles.
 
 # Methodology :
-1 . Detect the characters individually,
-2 . Get the position of Detected Characters using tensor xyxy,
-3 . Sort them according to postion,
-4 . Separate Alphabets and Numbers,
+1 . Detect the characters individually
+
+2 . Get the position of Detected Characters using tensor xyxy
+
+3 . Sort them according to postion
+
+4 . Separate Alphabets and Numbers
 
 # Results
 Input Image
